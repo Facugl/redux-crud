@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Limón",
+      "precio": "200",
+      "id": 9
+    },
+    {
+      "nombre": "Leche",
+      "precio": 100,
+      "id": 11
+    },
+    {
+      "nombre": "Piña",
+      "precio": 55,
+      "id": 12
+    },
+    {
+      "nombre": "Fideos",
+      "precio": 100,
+      "id": 13
+    },
+    {
+      "nombre": "Coco",
+      "precio": 100,
+      "id": 14
+    },
+    {
+      "nombre": "Pera",
+      "precio": 200,
+      "id": 17
+    },
+    {
+      "nombre": "Manzana",
+      "precio": 500,
+      "id": 18
+    }
+  ]
+}
